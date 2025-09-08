@@ -34,13 +34,28 @@
 
             //Console.WriteLine(String.Join(",",msg3));
 
-            short a;
-            int b = 65536;
-            a = (short) b;
+            //short a;
+            //int b = 65536;
+            //a = (short) b;
 
-            Console.WriteLine(a);
-            Console.WriteLine("Hellow rold");
-         
+            //Console.WriteLine(a);
+            //Console.WriteLine("Hellow rold");
+
+
+            //string a = "55";
+
+            //int b = Convert.ToInt32(a);
+
+            //string a = "2025-09-08";
+
+            //DateTime date = Convert.ToDateTime(a);
+            //Console.WriteLine(date);
+
+            string b = "t";
+
+            int c = Convert.ToInt32(null);
+            Console.WriteLine(c);
+
 
         }
     }
