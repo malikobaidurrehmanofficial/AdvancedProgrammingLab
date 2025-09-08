@@ -27,10 +27,19 @@
 
             //Console.WriteLine(msg.Insert(5,"hellow world "));
 
-            string msg2 = "banana,apple,kenu,kela,saaib";
+            //string msg2 = "banana,apple,kenu,kela,saaib";
 
-            string[] msg3 = msg2.Split('a');
-            Console.WriteLine(msg3[0]);
+            //string[] msg3 = msg2.Split(',');
+            //Console.WriteLine(msg3[0]);
+
+            //Console.WriteLine(String.Join(",",msg3));
+
+            short a;
+            int b = 65536;
+            a = (short) b;
+
+            Console.WriteLine(a);
+            Console.WriteLine("Hellow rold");
          
 
         }
