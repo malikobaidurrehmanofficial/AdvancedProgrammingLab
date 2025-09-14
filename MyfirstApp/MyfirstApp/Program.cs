@@ -51,12 +51,20 @@
             //DateTime date = Convert.ToDateTime(a);
             //Console.WriteLine(date);
 
-            string b = "t";
+            //string b = "t";
 
-            int c = Convert.ToInt32(null);
-            Console.WriteLine(c);
+            //int c = Convert.ToInt32(null);
+            //Console.WriteLine(c);
 
 
+            //double x = 4.6;
+            //Console.WriteLine(Math.Round(x));
+
+
+            int a = 5;
+            int b = 10;
+            Console.WriteLine(a|b);
+    
         }
     }
 }
