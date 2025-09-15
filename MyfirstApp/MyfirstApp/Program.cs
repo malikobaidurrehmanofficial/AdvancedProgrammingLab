@@ -63,7 +63,8 @@
 
             int a = 5;
             int b = 10;
-            Console.WriteLine(a|b);
+            //Console.WriteLine(a|b);
+            Console.WriteLine(a>>2);
     
         }
     }
